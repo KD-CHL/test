@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/transformer_paper_learning_framework.html" }]
+}
